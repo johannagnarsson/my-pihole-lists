@@ -2,4 +2,5 @@ id,type,domain,enabled,date_added,date_modified,comment
 1,3,(\.|^)assessment\.com$,1,1621989262,1621989262,"fucking thieving fucks"
 6,0,mobile.pipe.aria.microsoft.com,1,1636541590,1636541590,"usaa app"
 7,0,www.googleadservices.com,1,1636541925,1636541925,
-8,0,browser.pipe.aria.microsoft.com,1,1639569574,1639569574,
+8,0,browser.pipe.aria.microsoft.com,1,1639569574,1639662401,"usaa app"
+9,0,tags.tiqcdn.com,1,1639662367,1639662367,"usaa app"
