@@ -8,3 +8,7 @@ id,type,domain,enabled,date_added,date_modified,comment
 17,0,www.googleadservices.com,1,1643651832,1643651832,
 18,0,service.maxymiser.net,1,1643651844,1643651844,
 19,0,adhoc.us,1,1644859493,1644859493,
+20,0,partnerapis.xwemo.com,1,1649686808,1649686808,
+21,0,beacons.gcp.gvt2.com,1,1649686815,1649686815,
+22,0,www.gstatic.com,1,1649686818,1649686818,
+23,0,www.googletagmanager.com,1,1649686972,1649686972,
